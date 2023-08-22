@@ -1,4 +1,4 @@
-### Hi there 👋
+### Byeonghun Kang 😁
 
 <!--
 **kangbh98/kangbh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
