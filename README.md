@@ -6,7 +6,10 @@
 # 👌Skills
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396)
 
-
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kangbh98.tistory.com/)](https://kangbh98.tistory.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdqudgjs1127@gmail.com)](mailto:rkdqudgjs1127@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fund88@naver.com)](mailto:fund88@naver.com)
 
 
 
