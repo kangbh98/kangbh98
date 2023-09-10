@@ -4,11 +4,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choikang98)](https://solved.ac/choikang98/)
 
 #### 👌Skills
-![](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396) 
-![](https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/JAVA-007396?&style=flat-square) 
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
+![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kangbh98.tistory.com/)](https://kangbh98.tistory.com)
