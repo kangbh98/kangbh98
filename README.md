@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choikang98)](https://solved.ac/choikang98/)
 
 # 👌Skills
-![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396)
+![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=007396) ![Spring](https://img.shields.io/badge/Spring-007396.svg?&style=for-the-badge&logo=Spring&logoColor=#6DB33F)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kangbh98.tistory.com/)](https://kangbh98.tistory.com)
