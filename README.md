@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangbh98&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choikang98)](https://solved.ac/choikang98/)
 
-#### 👌Skills
+# 👌Skills
 ![](https://img.shields.io/badge/JAVA-007396?&style=flat-square) 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
