@@ -20,7 +20,7 @@
     <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>InsomniaDiay</b></a> - 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
   </li>
   <li>
-    <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>날랑말랑</b></a> - 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
+    <a href="https://github.com/ImScareddd"><b>날랑말랑</b></a> - 영츠하이머 예방 서비스, 일상 기록으로 퀴즈를 제공 (알파코 DT그라운드 & GDSC 해커톤 대상 수상작)
   </li>
 </ul>
 
