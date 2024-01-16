@@ -19,6 +19,9 @@
   <li>
     <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>InsomniaDiay</b></a> - 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
   </li>
+  <li>
+    <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>날랑말랑</b></a> - 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
+  </li>
 </ul>
 
 *****
