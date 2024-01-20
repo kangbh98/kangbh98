@@ -17,7 +17,9 @@
 ### 🎊 Projects
 <ul>
   <li>
-    <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>InsomniaDiay</b></a> - 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
+    <a href="https://github.com/kangbh98/MyInsomniaDiary.git"><b>InsomniaDiay</b></a>
+   </li> 그림 수면 일기 작성 및 데이터 분석 (2023 LG전자-한양대학교 정보시스템학과 IC-PBL 협업 기술 세미나)
+  </li>
   </li>
   <li>
     <a href="https://github.com/ImScareddd"><b>날랑말랑</b></a> - <a href="https://azure-fin-9b8.notion.site/Back-End-099d8087e7cc40dba5b329024af7889c?pvs=4">[ Project Role ]</a>
