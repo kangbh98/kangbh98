@@ -25,7 +25,7 @@
   </li>영츠하이머 예방 서비스, 일상 기록으로 퀴즈를 제공 (알파코 DT그라운드 & GDSC 해커톤 대상 수상작)
   
   <li>
-    <a href="https://github.com/ImScareddd"><b>FORIF Homepage</b></a> - <a href="https://www.forif.org">Site</a>
+    <a href="https://github.com/orgs/fororo-official/repositories"><b>FORIF Homepage</b></a> - <a href="https://www.forif.org">Site</a>
    </li> 스터디 신청 & 관리 및 인증서 발급 (한양대학교 중앙 소프트웨어 동아리 FORIF 스터디 관리 웹사이트)
 
 </ul>
